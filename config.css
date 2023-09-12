@@ -1,0 +1,44 @@
+th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+#t1{
+    font-size: 30px;
+
+}
+
+.t2{
+    font-size: 40px;
+    color: darkgray;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+h1{
+    color: darkorchid;
+    text-align: center;
+  }
+
+  tr{
+    text-align: center;
+    font-size: 20px;
+    
+  }
+
+.part{
+    text-align: center;
+    font-size: 15px;
+  }
+
+  
+  body{
+    background-size: cover;
+    background-color: rgb(240, 94, 215);
+  }
+ 
+  
